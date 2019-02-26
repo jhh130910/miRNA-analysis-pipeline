@@ -1,7 +1,12 @@
-# miRNA-find-and-target-prediction-pipeline
+## miRNA find and prediction
+
+```
 
 Time: 2016-8-24
 
-Purpose: Establish miRNA gene finder program and their targets
+Purpose: 
+    (1) Establish miRNA gene finder program and their targets
 
-Author: jinhuihui
+Author: jinhh
+
+```
